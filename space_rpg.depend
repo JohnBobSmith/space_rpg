@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1422042627 source:/home/johnbobsmith/Documents/programming/C++/SDL/space_rpg/Game.cpp
+	"Game.h"
+	<vector>
+	<math.h>
+	<iostream>
+
+1422041523 /home/johnbobsmith/Documents/programming/C++/SDL/space_rpg/Game.h
+	"GameEngine.h"
+
+1421724772 /home/johnbobsmith/Documents/programming/C++/SDL/space_rpg/GameEngine.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<string>
+
+1421984414 source:/home/johnbobsmith/Documents/programming/C++/SDL/space_rpg/GameEngine.cpp
+	"GameEngine.h"
+	"Game.h"
+	<iostream>
+
+1421952878 source:/home/johnbobsmith/Documents/programming/C++/SDL/space_rpg/main.cpp
+	"GameEngine.h"
+
+1421885550 source:/home/johnbobsmith/Documents/programming/C++/SDL/space_rpg/OOBB.cpp
+	"GameEngine.h"
+	"OOBB.h"
+	<math.h>
+
+1421885550 /home/johnbobsmith/Documents/programming/C++/SDL/space_rpg/OOBB.h
+
