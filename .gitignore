@@ -1,10 +1,16 @@
 # Build and Release Folders
 bin/
+obj/
 bin-debug/
 bin-release/
 
 # Other files and folders
 .settings/
+
+#Ignore code blocks files
+*.layout
+*.cbp
+*.depend
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
